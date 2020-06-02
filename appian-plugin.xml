@@ -1,0 +1,12 @@
+<appian-plugin name="Groundswell CDT Management" key="com.groundswellcg.utilities.cdtmanagement">
+
+  <plugin-info>
+    <description>Groundswell CG Utility CDT Management</description>
+    <vendor name="Groundswell Consulting Group" url="http://www.groundswellcg.com" />
+    <version>1.0</version>
+    <application-version min="19.4" />
+  </plugin-info>
+
+  <smart-service name="CDTManagement" key="CDTManagement" class="com.groundswellcg.utilities.cdtmanagement.CDTManagement" />
+
+</appian-plugin>
